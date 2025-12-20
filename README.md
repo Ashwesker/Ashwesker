@@ -1,4 +1,4 @@
-<img width="1792" height="576" alt="Gemini_Generated_Image_yu501cyu501cyu50" src="https://github.com/user-attachments/assets/1829e2b9-59a1-444d-83a4-3e364a01459c" />
+<img width="1792" height="576" alt="Gemini_Generated_Image_yu501cyu501cyu50-removebg-preview" src="https://github.com/user-attachments/assets/fddafcc2-bd2d-4ffb-a489-1a9e5ea693f8" />
 
 # 💫 About Me:
 Hello My name is Ash , I’m a cybersecurity professional with hands-on experience in penetration testing, Security Operations Center (SOC) monitoring, and malware analysis. I help organizations detect, analyze, and mitigate security threats by identifying vulnerabilities, monitoring incidents, and analyzing malicious activity.
