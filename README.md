@@ -12,7 +12,7 @@ Hello My name is Ash , I’m a cybersecurity professional with hands-on experien
 I am a TryHackMe **Shogun**, with over **95,000 points** earned solving CTF challenges and completing cybersecurity labs. Experienced in **penetration testing, networking, and ethical hacking**.
 
 <a href="https://tryhackme.com/p/Ashwesker">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Ashwesker.png" alt="TryHackMe Badge" />
+  <img width="329" height="88" alt="Ashwesker" src="https://github.com/user-attachments/assets/3932deeb-a522-4a52-a85b-3bf56a0593c5" />
 </a>
 
 ---
