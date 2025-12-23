@@ -1,4 +1,4 @@
-<img width="1792" height="576" alt="Gemini_Generated_Image_yu501cyu501cyu50-removebg-preview" src="https://github.com/user-attachments/assets/fddafcc2-bd2d-4ffb-a489-1a9e5ea693f8" />
+![1500x500 (1)](https://github.com/user-attachments/assets/bba754ed-bdcf-4612-9186-50df6362c129)
 
 ---
 
@@ -12,7 +12,8 @@ Hello My name is Ash , I’m a cybersecurity professional with hands-on experien
 I am a TryHackMe **Shogun**, with over **95,000 points** earned solving CTF challenges and completing cybersecurity labs. Experienced in **penetration testing, networking, and ethical hacking**.
 
 <a href="https://tryhackme.com/p/Ashwesker">
-  <img width="329" height="88" alt="Ashwesker" src="https://github.com/user-attachments/assets/3932deeb-a522-4a52-a85b-3bf56a0593c5" />
+  <img width="329" height="88" alt="Ashwesker (1)" src="https://github.com/user-attachments/assets/eb5b856f-6ed7-4195-82b9-faa63b6baf82" />
+
 </a>
 
 ---
