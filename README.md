@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello World !!! My name is Achraf Zaryouh , I’m a cybersecurity professional with hands-on experience in penetration testing, Security Operations Center (SOC) monitoring, and malware analysis. I help organizations detect, analyze, and mitigate security threats by identifying vulnerabilities, monitoring incidents, and analyzing malicious activity.
+Hello World !!! My name is Ash , I’m a cybersecurity professional with hands-on experience in penetration testing, Security Operations Center (SOC) monitoring, and malware analysis. I help organizations detect, analyze, and mitigate security threats by identifying vulnerabilities, monitoring incidents, and analyzing malicious activity.
 
 ---
 
@@ -8,7 +8,8 @@ Hello World !!! My name is Achraf Zaryouh , I’m a cybersecurity professional w
 I am a TryHackMe **Shogun**, with over **95,000 points** earned solving CTF challenges and completing cybersecurity labs. Experienced in **penetration testing, networking, and ethical hacking**.
 
 <a href="https://tryhackme.com/p/Ashwesker">
-  <img width="1897" height="376" alt="thm1" src="https://github.com/user-attachments/assets/d77be806-c5cb-4d2d-865d-f33f7f0d3689" />
+  <img width="1903" height="519" alt="thm2" src="https://github.com/user-attachments/assets/daef0bb6-1f02-4dbb-af8c-06f4075f12f2" />
+
 </a>
 
 ---
