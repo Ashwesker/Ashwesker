@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello World !!! My name is Ash , I’m a cybersecurity professional with hands-on experience in penetration testing, Security Operations Center (SOC) monitoring, and malware analysis. I help organizations detect, analyze, and mitigate security threats by identifying vulnerabilities, monitoring incidents, and analyzing malicious activity.
+Hello World !!! My name is Ash , I’m a cybersecurity researcher with hands-on experience in penetration testing, Security Operations Center (SOC) monitoring, and malware analysis. I help organizations detect, analyze, and mitigate security threats by identifying vulnerabilities, monitoring incidents, and analyzing malicious activity.
 
 ---
 
