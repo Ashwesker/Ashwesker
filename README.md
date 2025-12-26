@@ -1,5 +1,4 @@
-# 💫 About Me:
-Hello World !!! My name is Ash , I’m a cybersecurity researcher with hands-on experience in penetration testing, Security Operations Center (SOC) monitoring, and malware analysis. I help organizations detect, analyze, and mitigate security threats by identifying vulnerabilities, monitoring incidents, and analyzing malicious activity.
+![1000011590](https://github.com/user-attachments/assets/83ac0eaf-b989-4e51-9a6b-98942ac9cee4)
 
 ---
 
